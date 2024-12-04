@@ -7,15 +7,13 @@ Soal: Jumlah Subarray dengan Jumlah Tertentu
     2. Baris kedua berisi 𝑛n bilangan bulat A[1],A[2],…,A[n] (−10^4≤A[i]≤10^4 ).
     Output Format:
     1. Cetak satu bilangan bulat, jumlah subarray yang memiliki jumlah elemen sama dengan k.
-    ---------------
-    Contoh Input
-    5 7  
-    2 4 1 2 5
-    ---------------
-    Contoh Output
-    2
-    ---------------
-    Penjelasan: Subarray dengan jumlah 7 adalah:
+    _____________________________
+    | Input       | Output      |  
+    | 5 7         | 2           |
+    | 2 4 1 2 5   |             |
+    |-------------|-------------|
+    Penjelasan:
+    Subarray dengan jumlah 7 adalah:
     Subarray dari indeks 0 hingga 2: [2,4,1].
     Subarray dari indeks 3 hingga 4: [2,5].
 */
