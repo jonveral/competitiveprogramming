@@ -16,8 +16,8 @@ Soal: Jumlah Subarray dengan Jumlah Tertentu
     2
     ---------------
     Penjelasan: Subarray dengan jumlah 7 adalah:
-    Subarray dari indeks 1 hingga 3: [2,4,1].
-    Subarray dari indeks 4 hingga 5: [2,5].
+    Subarray dari indeks 0 hingga 2: [2,4,1].
+    Subarray dari indeks 3 hingga 4: [2,5].
 */
 
 #include <iostream>
