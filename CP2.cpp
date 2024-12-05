@@ -1,5 +1,4 @@
 /*
-
 Soal: Menyusun Pangkat Terbesar yang Mungkin
     Diberikan dua bilangan bulat a dan b,
     tentukan apakah ada bilangan bulat x dan y sedemikian sehingga a^x = b^y,
@@ -33,7 +32,6 @@ Soal: Menyusun Pangkat Terbesar yang Mungkin
     Penjelasan:
     Tidak ada pasangan (x,y) yang memenuhi persamaan 5^x = 7^y,
     jadi output adalah -1.
-
 */
 
 #include <iostream>
