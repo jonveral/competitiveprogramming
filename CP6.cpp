@@ -1,5 +1,4 @@
 /*
-
 Soal: Fungsi minSwaps
     Buatlah sebuah fungsi untuk mengkonversi satu String Biner ke String Biner yang lainnya,
     yang dimana nilainya harus mengembalikan jumlah minimum swap untuk mengkonversi String Biner pertama agar menjadi String Biner yang kedua,
@@ -12,7 +11,6 @@ Soal: Fungsi minSwaps
     minSwaps("1100", "0011") => 2
     minSwaps("110011", "001111") => 2
     minSwaps("10011001", "01100101") => 3
-
 */
 
 #include <iostream>
