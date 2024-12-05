@@ -1,5 +1,4 @@
 /*
-
 Soal: Fungsi Angka Menurun
     Buatlah sebuah fungsi untuk perhitungan mundur dari sebuah angka yang diambil dari parameternya,
     outputnya harus berupa angka yang menghitung mundur sesuai dengan digit angka yang diberikan sampai dengan index ke 0,
@@ -9,7 +8,6 @@ Soal: Fungsi Angka Menurun
     F(5) => [5, 4, 3, 2, 1, 0]
     F(3) => [3, 2, 1, 0]
     F(0) => []
-
 */
 
 #include <iostream>
