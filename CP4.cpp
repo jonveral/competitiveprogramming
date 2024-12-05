@@ -1,5 +1,4 @@
 /*
-
 Soal: Fungsi isMatchIdentity
     Buatlah sebuah fungsi untuk mengecek setiap huruf yang menggunakan huruf Vowels,
     apakah ada sebuah String yang mengandung karakter yang identik sama,
@@ -12,7 +11,6 @@ Soal: Fungsi isMatchIdentity
     isMatchIdentity("aaaaaa") => true
     isMatchIdentity("aabbbaaa") => false
     isMatchIdentity("ccccc") => true
-
 */
 
 #include <iostream>
