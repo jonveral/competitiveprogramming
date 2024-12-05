@@ -1,5 +1,4 @@
 /*
-
 Soal: Pertandingan
     Deskripsi
     Dalam sebuah pertandingan olahraga, Budi diberikan kesempatan untuk memilih urutan pemain yang harus dilawannya.
@@ -41,7 +40,6 @@ Soal: Pertandingan
     |   Contoh Keluaran    |
     |   23                 |                          
     |----------------------|
-
 */
 
 #include <iostream>
