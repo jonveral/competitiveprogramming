@@ -50,27 +50,22 @@ using namespace std;
 int main()
 {
     
-    // input first line
     int N, M;
     cin >> N >> M;
     cout << endl;
     
-    // input second line
     int arr_a[N], arr_b[N];
     for(int i=0; i<N; i++){
         cin >> arr_a[i];
     }
     cout << endl;
     
-    // input third line
     for(int j=0; j<N; j++){
         cin >> arr_b[j];
     }
     cout << endl;
     
-    // ======================
     
-    // output
     for(int k=0; k<N; k++){
         for(int l=0; l<N; l++){
             if (M>=arr_a[l]){
