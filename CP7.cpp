@@ -25,7 +25,6 @@ Soal: Urutan Aneh
     |  13                           |
     |  23                           |
     |-------------------------------|
-
 */
 
 #include <iostream>
