@@ -1,5 +1,4 @@
 /*
-
 Soal: Fungsi additiveInverse
     Buatlah sebuah fungsi untuk menghitung matematik dengan mengunakan pola Additive Inverse seperti angka berikut dibawah ini,
     Additive Inverse sangat identik dengan pertukaran angka dari Plus ke Mines begitu juga sebaliknya,
@@ -9,7 +8,6 @@ Soal: Fungsi additiveInverse
     additiveInverse([12, -7, -1, 3, 5]) => [-12, 7, 1, -3, -5]
     additiveInverse([0, -3, 4, 1, 2]) => [0, 3, -4, -1, -2]
     additiveInverse([-5, -25, 35]) => [5, 25, -35]
-
 */
 
 #include <iostream>
